@@ -6,6 +6,12 @@ Nama Proyek: Backend Started
 Deskripsi:  
 Proyek ini adalah backend sederhana yang dibangun menggunakan Golang dengan framework Gin dan GORM untuk mengelola data produk, pengguna, transaksi, dan pembayaran.  
 
+http://localhost:8080/users
+http://localhost:8080/products
+http://localhost:8080/transactions
+http://localhost:8080/payments
+
+
 Struktur Direktori:  
 - config: Berisi konfigurasi database.  
 - controllers: Berisi fungsi untuk menangani request endpoint.  
